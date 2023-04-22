@@ -1,6 +1,6 @@
 # StackSource Landing Page with JetBrains
 
-**[Autors](#autors) | [Segmentos Objetivo](#segmentos-objetivo) | [Características principales de DigitalMind](#características-principales-de-TechLinker)**
+**[Autors](#autors) | [Segmentos Objetivo](#segmentos-objetivo) | [Características principales de StackSource](#características-principales-de-TechLinker)**
 
 ## StackSource
 
@@ -8,7 +8,7 @@ StackSource está conformada por cinco jóvenes, estudiantes de la Universidad P
 
 ## About StackSource
 
-![TechLinker](https://github.com/upc-pre-202301-cc238-ws61-stackSource/stackSource-project-landing-page/blob/master/public/assets/img/logoCompany.png)
+![TechLinker](https://github.com/upc-pre-202301-cc238-ws61-stackSource/stackSource-project-landing-page/blob/master/public/assets/img/profile.png)
 
 
 

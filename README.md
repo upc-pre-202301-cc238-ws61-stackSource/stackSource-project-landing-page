@@ -8,11 +8,11 @@ StackSource está conformada por cinco jóvenes, estudiantes de la Universidad P
 
 ## About StackSource
 
-![Profile+](https://github.com/DigitalMind-upc-pre-202202-si729-sw52/digital-mind-project-landing-page/blob/master/public/assets/img/profile.png)
+![TechLinker](https://github.com/upc-pre-202301-cc238-ws61-stackSource/stackSource-project-landing-page/blob/master/public/assets/img/logoCompany.png)
 
 
 
-Profile+ es una aplición donde los developers pueden unirse para luego ser contratados por la empresa que necesita de su servicio. Este proyecto permitirá el uso del sistema de developers para verificar sus habilidades, ayudará a corroborar la calidad del trabajo de estas personas.
+TechLinker es una aplición donde los developers pueden unirse para luego ser contratados por la empresa que necesita de su servicio. Este proyecto permitirá el uso del sistema de developers para verificar sus habilidades, ayudará a corroborar la calidad del trabajo de estas personas.
 
 ---
 
@@ -38,7 +38,7 @@ Profile+ es una aplición donde los developers pueden unirse para luego ser cont
 ## Segmentos objetivo
 
 ### Segmento de developers
-Son personas entre 18 y 50 años que se dedican al  desarrollo de software, que buscan un trabajo remoto o presencial, que quieren tener un portafolio de proyectos y que quieren tener un mejor perfil para ser contratados.
+Son personas entre 18 y más años que se dedican al  desarrollo de software, que buscan un trabajo remoto o presencial, que quieren tener un portafolio de proyectos y que quieren tener un mejor perfil para ser contratados.
 
 ![Developer](https://github.com/DigitalMind-upc-pre-202202-si729-sw52/digital-mind-project-landing-page/blob/master/public/assets/img/dev.png)
 
@@ -48,7 +48,7 @@ Son empresas, en su mayoría pymes, que actualmente se encuentran en la búsqued
 ![Business](https://github.com/DigitalMind-upc-pre-202202-si729-sw52/digital-mind-project-landing-page/blob/master/public/assets/img/company.png)
 
 ---
-## Características principales de Profile+
+## Características principales de TechLinker
 
 - La app permitirá enviar notificaciones a los usuarios developers desempleados, cuando la empresa lo quiera contratar.
 
